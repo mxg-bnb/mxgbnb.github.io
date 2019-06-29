@@ -1,5 +1,10 @@
 # mxgbnb.github.io
 
+
+訂房前請先詳閱訂房資訊及須知。
+https://github.com/mxg-bnb/mxgbnb.github.io/blob/master/房型介紹.md
+https://github.com/mxg-bnb/mxgbnb.github.io/blob/master/訂房須知.md
+
 墨西哥城家庭旅馆, 专为墨西哥城探亲、
 背包客、学习以及新移民入墨过渡而提供的家居式短租
 
