@@ -1,7 +1,8 @@
 # mxgbnb.github.io
 
 
-訂房前請先詳閱訂房資訊及須知。
+訂房前請先詳閱訂房資訊及須知
+
 https://github.com/mxg-bnb/mxgbnb.github.io/blob/master/房型介紹.md
 https://github.com/mxg-bnb/mxgbnb.github.io/blob/master/訂房須知.md
 
