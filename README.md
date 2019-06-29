@@ -9,6 +9,7 @@
 
 Wechat:mxgbnb
 Email:mxgbnb@gmail.com
+fb主页：https://www.facebook.com/mxgbnb
 
 ![image](https://i.imgur.com/hjixYjH.jpg)
 
