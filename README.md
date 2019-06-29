@@ -29,4 +29,4 @@ fb主页：https://www.facebook.com/mxgbnb
 
 网址：
 http://sina.lt/gk9u
-
+http://go2l.ink/mxgbnb
