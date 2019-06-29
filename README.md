@@ -17,7 +17,7 @@ https://github.com/mxg-bnb/mxgbnb.github.io/blob/master/訂房須知.md
 Del Valle Norte Google地图：https://www.google.com.hk/maps/place/Col+del+Valle+Nte,+墨西哥城聯邦區/@19.3955025,-99.171318,16z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff0d45109337:0xab2dd600a452e342!8m2!3d19.3935143!4d-99.1649891
 
 此房距地铁站步行仅10分钟
-包水电，沐浴液，洗手液，洗发水，卫生纸，洗洁精，超快网络WIFI Free，24小时热水，厨房可煮食，提供洗衣机可洗衣。
+包水电，沐浴液，洗手液，洗发水，卫生纸，洗洁精，超快网络WIFI Free，24小时热水，提供洗衣机可洗衣。
 
 -------------------------
 
